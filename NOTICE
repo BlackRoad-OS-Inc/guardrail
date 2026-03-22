@@ -1,0 +1,17 @@
+NOTICE — Third-Party Software Attribution
+==========================================
+
+This repository (guardrail) is based on Grafana.
+
+Original Project: Grafana
+Original Repository: https://github.com/grafana/grafana
+Original License: AGPL-3.0
+
+The original code is copyright its respective authors and is used in
+compliance with the AGPL-3.0 license. BlackRoad OS, Inc.
+modifications and additions are proprietary.
+
+A copy of the original AGPL-3.0 license can be found at:
+https://github.com/grafana/grafana/blob/main/LICENSE
+
+© 2024-2026 BlackRoad OS, Inc. All rights reserved for modifications.
