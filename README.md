@@ -1,3 +1,11 @@
+# guardrail
+
+> GuardRail — Sovereign uptime monitoring. Fork of Uptime Kuma. Fleet health for 41 pages, 7 nodes, 18 domains. Proprietary BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # GuardRail — Sovereign Uptime Monitoring
 
 > Forked from [Uptime Kuma](https://github.com/louislam/uptime-kuma). Fleet health visualization for BlackRoad OS.
